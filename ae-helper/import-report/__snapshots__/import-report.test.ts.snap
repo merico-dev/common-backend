@@ -1,0 +1,116 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`import-report 1`] = `119`;
+
+exports[`import-report 2`] = `106`;
+
+exports[`import-report 3`] = `182`;
+
+exports[`import-report 4`] = `196`;
+
+exports[`import-report 5`] = `51`;
+
+exports[`import-report 6`] = `304`;
+
+exports[`import-report 7`] = `119`;
+
+exports[`import-report 8`] = `4`;
+
+exports[`import-report 9`] = `27`;
+
+exports[`import-report 10`] = `72`;
+
+exports[`import-report 11`] = `27`;
+
+exports[`import-report 12`] = `311`;
+
+exports[`import-report 13`] = `236`;
+
+exports[`import-report 14`] = `311`;
+
+exports[`import-report 15`] = `311`;
+
+exports[`import-report 16`] = `311`;
+
+exports[`import-report 17`] = `
+ReportMetric {
+  "ccg_snapshot_function_num": 196,
+  "code_reusability": 0.979591846466064,
+  "cyclomatic_total": 621,
+  "doc_coverage": 25.5102043151855,
+  "doc_coverage_function_num": 0,
+  "doc_coverage_total_function_num": 196,
+  "duplicate_function_num": 4,
+  "git_tag_number": 9,
+  "issue_blocker_number": 0,
+  "issue_critical_number": 13,
+  "issue_info_number": 11,
+  "issue_major_number": 81,
+  "issue_minor_number": 1,
+  "issue_track_unique": true,
+  "language_distribution": Object {
+    "Dockerfile": 0.00070479407440871,
+    "Go": 0.9992952346801758,
+  },
+  "magnetism": 0,
+  "modularity": 75.3021850585938,
+  "package_depend": 0,
+  "popularity": null,
+  "report_id": "1d7fa6f1-151a-4e36-8007-4406d0d80622",
+  "robustness": 0.354941502889941,
+  "static_test_coverage": 0.434426218271255,
+  "static_test_coverage_function_num": 53,
+  "static_test_coverage_total_function_num": 122,
+  "velocity": 0,
+}
+`;
+
+exports[`import-report 18`] = `
+Object {
+  "add_line": 4826,
+  "commit_aspect_hash": "76cadaa318fd00fe3936af0243cb5daa9df84c73",
+  "commit_dead_hash": "76cadaa318fd00fe3936af0243cb5daa9df84c73",
+  "commit_dead_time": 2020-07-17T23:22:14.000Z,
+  "commit_start_time": 2016-10-04T00:54:17.000Z,
+  "default_ref": "refs/remotes/origin/master",
+  "delete_line": 857,
+  "detail_versions": Array [
+    "report",
+    "report_code_check_breaking_record",
+    "report_code_check_breaking_record_code",
+    "report_comment_coverage_function",
+    "report_commit_file_tag_evidence",
+    "report_commit_file_value",
+    "report_commit_function",
+    "report_commit_value",
+    "report_duplicate_function",
+    "report_duplicate_group",
+    "report_email_metric",
+    "report_email_module_value",
+    "report_email_value",
+    "report_function",
+    "report_function_depend_email",
+    "report_function_graph",
+    "report_metric",
+    "report_test_coverage_function",
+    "report_topic_email_value",
+    "report_topic_file_value",
+  ],
+  "dev_equivalent": 13292,
+  "hasId": [Function],
+  "id": "1d7fa6f1-151a-4e36-8007-4406d0d80622",
+  "meta_dev_value": 0.000075233222991273,
+  "num_commits": 119,
+  "projectId": "5024fc90-c18e-43aa-9c78-17b34c08f453",
+  "reload": [Function],
+  "remove": [Function],
+  "save": [Function],
+  "version": "development",
+}
+`;
+
+exports[`import-report 19`] = `122`;
+
+exports[`import-report 20`] = `158`;
+
+exports[`import-report 21`] = `86`;

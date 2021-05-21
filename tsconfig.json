@@ -1,0 +1,21 @@
+{
+  "compilerOptions": {
+    "lib": ["ESNext"],
+    "target": "es2018",
+    "downlevelIteration": true,
+    "allowSyntheticDefaultImports": true,
+    "module": "commonjs",
+    "esModuleInterop": true,
+    "moduleResolution": "node",
+    "experimentalDecorators": true,
+    "emitDecoratorMetadata": true,
+    "allowJs": true,
+    "checkJs": false,
+    "skipLibCheck": true,
+    "outDir": "dist",
+    "rootDir": ".",
+    "newLine": "LF"
+  },
+  "include": ["helpers/**/*", "ae-helper/index.ts", "ae-helper/protos", "ae-helper/import-report/protos", "ae-helper/importWorker.ts"],
+  "exclude": ["node_modules", "build", "_build"]
+}
